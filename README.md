@@ -1,3 +1,3 @@
-# ASL Machine Learning
-- 201810370311066 - ELA EFRIYANTI
-- 201810370311074 - AALIYAH LUSIANTI
+# Pneumonia Prediction
+- 201810370311082 - Tsabita Nurul Izzah
+- 201810370311058 - Ulfa Zakiatul Mardhiah
